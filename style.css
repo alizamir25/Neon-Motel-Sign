@@ -1,9 +1,9 @@
-* {
+*{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
-html, body {
+html, body{
     background: #090000;
     height: 100vh;
     display: flex;
@@ -12,16 +12,16 @@ html, body {
     justify-content: center;
     color: white;
 }
-h1 {
+h1{
     font-family: "Nunito", sans-serif;
     font-size: 100px;
     font-weight: 400;
 }
-h2 {
+h2{
     font-family: "Playwrite CU", cursive;
     font-size: 50px;
 }
-.pink {
+.pink{
     color: azure;
     --color1: #ffc9f3;
     --color2: #ff93e7;
@@ -29,7 +29,7 @@ h2 {
     --color4: magenta;
     --color5: #b81d70;
 }
-.turquoise {
+.turquoise{
     color: #e2fefe;
     --color1: #b1fdfe;
     --color2: #80fdff;
@@ -37,7 +37,7 @@ h2 {
     --color4: #1efbff;
     --color5: #00e9ec;
 }
-.neon {
+.neon{
     text-shadow: 
     0 0 10px var(--color1),
     0 0 20px var(--color2),

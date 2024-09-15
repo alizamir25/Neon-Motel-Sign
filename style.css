@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
 }
-
 html, body {
     background: #090000;
     height: 100vh;
@@ -13,18 +12,15 @@ html, body {
     justify-content: center;
     color: white;
 }
-
 h1 {
     font-family: "Nunito", sans-serif;
     font-size: 100px;
     font-weight: 400;
 }
-
 h2 {
     font-family: "Playwrite CU", cursive;
     font-size: 50px;
 }
-
 .pink {
     color: azure;
     --color1: #ffc9f3;
@@ -33,7 +29,6 @@ h2 {
     --color4: magenta;
     --color5: #b81d70;
 }
-
 .turquoise {
     color: #e2fefe;
     --color1: #b1fdfe;
@@ -42,7 +37,6 @@ h2 {
     --color4: #1efbff;
     --color5: #00e9ec;
 }
-
 .neon {
     text-shadow: 
     0 0 10px var(--color1),
